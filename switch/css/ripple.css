@@ -1,0 +1,10 @@
+.vlak{
+    position: relative;
+}
+.rimpel{
+    position: relative;
+    width: 10px ;
+    height: 10px;
+    background-color: blueviolet;
+    
+}
